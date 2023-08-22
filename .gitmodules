@@ -1,0 +1,7 @@
+[submodule "packages/languages"]
+	path = packages/languages
+	url = https://github.com/Apps-Manager-for-Cloud/languages
+
+[submodule "packages/analyzer"]
+	path = packages/analyzer
+	url = https://github.com/Apps-Manager-for-Cloud/analyzer
